@@ -47,7 +47,7 @@ Top 20 customers, revenue by occupation, new customers per month, and repeat cus
 
 Star schema with one sales fact table and four dimensions.
 
-![Data model](doc/data_model.png)
+![data model](doc/data_model.png)
 
 | Table | Type |
 |---|---|
